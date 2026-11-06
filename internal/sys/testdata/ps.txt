@@ -1,0 +1,4 @@
+    0     0     0   3.1  12345 Wed Nov  4 09:00:01 2026 kernel_task
+    1     0     0   0.1   4784 Wed Nov  4 09:00:01 2026 /sbin/launchd
+  714     1   501   1.2 215424 Wed Nov  4 09:01:10 2026 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+70396  1234   501   6.1 307200 Tue Nov  3 18:22:05 2026 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/142.0.7444.60/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper

@@ -1,0 +1,3 @@
+48121 /usr/local/bin/node /Users/me/app/node_modules/.bin/next dev
+48210 node /Users/me/web/node_modules/vite/bin/vite.js --host ::1
+  901 php-fpm: master process (/opt/homebrew/etc/php/8.3/php-fpm.conf)

@@ -1,0 +1,4 @@
+{
+  "7F6838BE": {"identifier": "7F6838BE", "runtimeIdentifier": "com.apple.CoreSimulator.SimRuntime.watchOS-26-5", "version": "26.5", "sizeBytes": 3935033546, "deletable": true, "lastUsedAt": "2026-11-03T07:33:09Z", "state": "Ready"},
+  "12345678": {"identifier": "12345678", "runtimeIdentifier": "com.apple.CoreSimulator.SimRuntime.iOS-26-0", "version": "26.0", "sizeBytes": 8000000000, "deletable": false, "state": "Ready"}
+}

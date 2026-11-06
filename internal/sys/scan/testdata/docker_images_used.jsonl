@@ -1,0 +1,3 @@
+{"Containers":"2","CreatedAt":"2026-08-18 01:21:34 +0400 +04","CreatedSince":"2 months ago","Digest":"<none>","ID":"ef0e62af24c3","Repository":"sail-8.5/app","SharedSize":"N/A","Size":"2.24GB","Tag":"latest","UniqueSize":"N/A"}
+{"Containers":"1","CreatedAt":"2026-08-10 01:21:34 +0400 +04","CreatedSince":"3 months ago","Digest":"<none>","ID":"aa0e62af24c3","Repository":"postgres","SharedSize":"N/A","Size":"430MB","Tag":"16","UniqueSize":"N/A"}
+{"Containers":"1","CreatedAt":"2026-08-10 01:21:34 +0400 +04","CreatedSince":"3 months ago","Digest":"<none>","ID":"bb0e62af24c3","Repository":"redis","SharedSize":"N/A","Size":"120MB","Tag":"7","UniqueSize":"N/A"}

@@ -1,0 +1,4 @@
+{"ID":"95d08bc16fea","Names":"store-backend-laravel.test-1","Ports":"0.0.0.0:80-\u003e80/tcp, [::]:80-\u003e80/tcp, 0.0.0.0:5173-\u003e5173/tcp, [::]:5173-\u003e5173/tcp","State":"running"}
+{"ID":"6d0dcd6624ff","Names":"store-backend-mysql-1","Ports":"0.0.0.0:3306->3306/tcp, [::]:3306->3306/tcp","State":"running"}
+{"ID":"aa11bb22cc33","Names":"worker-1","Ports":"9000/tcp","State":"running"}
+{"ID":"dd44ee55ff66","Names":"range-1","Ports":"127.0.0.1:8000-8002->8000-8002/udp","State":"running"}

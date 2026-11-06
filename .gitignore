@@ -1,0 +1,14 @@
+# Build output
+/bin/
+/dist/
+
+# Design notes and plans stay on this Mac only
+/docs/superpowers/
+
+# Go test and profile output
+*.test
+*.out
+*.prof
+
+# macOS
+.DS_Store
